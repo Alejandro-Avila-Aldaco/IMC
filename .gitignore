@@ -1,0 +1,36 @@
+# Compiled source #
+###################
+*.class
+
+# Package Files #
+#################
+*.jar
+*.war
+*.ear
+
+# IDE files #
+#############
+.eclipse/
+.project
+.classpath
+
+# MacOS #
+########
+.DS_Store
+
+# Logs #
+########
+*.log
+
+# Maven #
+#########
+target/
+
+# Temporary files #
+###################
+*.tmp
+*.temp
+
+# Configuration files #
+#######################
+config/
